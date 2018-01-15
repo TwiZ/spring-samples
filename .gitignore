@@ -1,0 +1,9 @@
+/.settings
+/.project
+/spring-properties-samples/.apt_generated
+/spring-properties-samples/.settings
+/spring-properties-samples/target
+/spring-properties-samples/.classpath
+/spring-properties-samples/.factorypath
+/spring-properties-samples/.project
+/spring-properties-samples/.springBeans

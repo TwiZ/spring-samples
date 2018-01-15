@@ -1,0 +1,11 @@
+daivb:
+    environment: dev_china
+    
+    
+passwords:
+    dev:
+        user: devuser
+        pass: devpass
+    prod:
+        user: produser
+        pass: prodpass
