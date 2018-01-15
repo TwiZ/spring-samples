@@ -1,5 +1,4 @@
-daivb:
-    environment: dev_china
+environment: dev_china
     
     
 passwords:

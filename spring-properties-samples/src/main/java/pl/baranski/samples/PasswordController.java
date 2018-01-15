@@ -10,7 +10,7 @@ import pl.baranski.samples.CredentialsStorage.CredentialsConfig.Credentials;
 @RestController
 public class PasswordController {
 
-    @Value("${daivb.environment}")
+    @Value("${environment}")
     private String env;
 
     @Autowired
